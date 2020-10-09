@@ -1,0 +1,10 @@
+[package]
+name = "cloudflare-2020-systems-engineering-assignment"
+version = "0.1.0"
+authors = ["JMS55"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33"
+url = "2.1"
+anyhow = "1.0"
